@@ -1,10 +1,162 @@
 [
   {
-    "id": "sample",
-    "name": "Sample Deck",
+    "id": "d17829428331907r4v",
+    "name": "Week 1: English is not normal",
     "cards": [
-      { "question": "What is the capital of France?", "answer": "Paris" },
-      { "question": "2 + 2 = ?", "answer": "4" }
-    ]
+      {
+        "question": "What is the most readily perceived 'oddity' of the English language for both native and non-native learners?",
+        "answer": "The spelling system, which lacks a basic correspondence to pronunciation."
+      },
+      {
+        "question": "How does English compare to other language pairs like Spanish and Portuguese in terms of mutual intelligibility?",
+        "answer": "English has no close relative that allows for significant understanding without training."
+      },
+      {
+        "question": "Which obscure Northern European language is considered the closest linguistic relative to English?",
+        "answer": "Frisian."
+      },
+      {
+        "question": "How does English differ from almost all other Indo-European languages regarding noun categories?",
+        "answer": "It does not assign genders to nouns."
+      },
+      {
+        "question": "Which specific present-tense verb ending makes English unique among the world's languages?",
+        "answer": "The third-person singular suffix -s."
+      },
+      {
+        "question": "Besides English, which other language group is documented to use the verb 'do' to form questions and negatives?",
+        "answer": "Celtic."
+      },
+      {
+        "question": "Which three Germanic tribes are primarily responsible for bringing the English language to Britain?",
+        "answer": "The Angles, Saxons, and Jutes."
+      },
+      {
+        "question": "What language group was spoken by the inhabitants of England before the Germanic invasions?",
+        "answer": "Celtic."
+      },
+      {
+        "question": "How did the population size of the Germanic invaders compare to the indigenous Celts in early England?",
+        "answer": "There were only about 250,000 invaders, meaning most speakers of the new language were actually Celts."
+      },
+      {
+        "question": "What was the typical position of the verb in ancient Celtic sentences?",
+        "answer": "The verb came first in the sentence."
+      },
+      {
+        "question": "The nursery rhyme counting sequence 'eeny, meeny, miny, moe' is descended from which language group's numbers?",
+        "answer": "Celtic."
+      },
+      {
+        "question": "In the Celtic counting system, what numbers were represented by the words 'hovera, dovera, dick'?",
+        "answer": "Eight, nine, and ten."
+      },
+      {
+        "question": "Which language group invaded England in the ninth century and spoke another Germanic offshoot?",
+        "answer": "The Vikings (speaking Old Norse)."
+      },
+      {
+        "question": "Why did the Old Norse invaders simplify the grammar of Old English?",
+        "answer": "They were adults who learned a highly approximate 'bad' version of the language that eventually became the standard."
+      },
+      {
+        "question": "To which historical group does the author attribute the loss of noun genders in English?",
+        "answer": "The Scandinavian Vikings."
+      },
+      {
+        "question": "The words 'get' and 'happy' are examples of vocabulary imported from which language?",
+        "answer": "Old Norse."
+      },
+      {
+        "question": "In the doublet 'dike' and 'ditch,' which word was introduced by the Vikings?",
+        "answer": "Dike."
+      },
+      {
+        "question": "In the doublet 'scatter' and 'shatter,' which word is the native Anglo-Saxon term?",
+        "answer": "Shatter."
+      },
+      {
+        "question": "Which grammatical construction involving prepositions is considered a Norse influence shared with modern Danish?",
+        "answer": "Dangling prepositions (ending a sentence with a preposition)."
+      },
+      {
+        "question": "Approximately how many words did English acquire from French following the Norman Conquest?",
+        "answer": "10,000 words."
+      },
+      {
+        "question": "During which century did educated Anglophones begin heavily incorporating Latin words for a more 'elevated' tone?",
+        "answer": "The 16th century."
+      },
+      {
+        "question": "What were the proposed native English replacements for the Latinate words 'fundamental' and 'conclusion'?",
+        "answer": "Groundwrought and endsay."
+      },
+      {
+        "question": "In the formal triplet 'kingly, royal, regal,' which language is the source for the word 'royal'?",
+        "answer": "French."
+      },
+      {
+        "question": "In the formality triplet 'help, aid, assist,' which term is considered the most formal due to its Latin origin?",
+        "answer": "Assist."
+      },
+      {
+        "question": "Why does English use different words for animals (cow, pig) and their meat (beef, pork)?",
+        "answer": "English-speaking laborers slaughtered the animals, while French-speaking masters ate them."
+      },
+      {
+        "question": "Which language is modern Icelandic still remarkably similar to, 1,000 years later?",
+        "answer": "Old Norse."
+      },
+      {
+        "question": "How does the English/Germanic suffix '-ful' differ from the French suffix '-ity' in its effect on word stress?",
+        "answer": "Germanic suffixes leave the accent alone, while French suffixes pull the accent toward the end of the word."
+      },
+      {
+        "question": "According to the author, why is English considered a 'muttly' or 'mongrel' language?",
+        "answer": "It is a hybrid of Old English, Old Norse, French, Latin, and Greek."
+      },
+      {
+        "question": "Which language's scientific naming convention led to the adoption of Greek terms like 'photograph'?",
+        "answer": "Greek."
+      },
+      {
+        "question": "In the Native American language Zuni, what is the formal equivalent of the word 'life'?",
+        "answer": "A breathing into."
+      },
+      {
+        "question": "The author compares reading *Beowulf* to reading which unrelated language for an untrained English speaker?",
+        "answer": "Turkish."
+      },
+      {
+        "question": "Why do Arabic speakers typically show less interest in the study of etymology than English speakers?",
+        "answer": "Arabic words typically evolve from earlier versions of themselves rather than a 'polyglot smorgasbord' of sources."
+      },
+      {
+        "question": "What linguistic feature does Swahili use instead of longer words to express formal concepts?",
+        "answer": "Specific phrasing that does not necessarily require increased word length."
+      },
+      {
+        "question": "What is the author's primary explanation for why English became 'delightfully odd'?",
+        "answer": "The accidental and capricious events of its unique history."
+      },
+      {
+        "question": "What is the English meaning of the Frisian word 'tsiis'?",
+        "answer": "Cheese."
+      },
+      {
+        "question": "Which language family includes almost all European languages, including English?",
+        "answer": "Indo-European."
+      },
+      {
+        "question": "What does the author suggest is the reason Anglophones often miss the 'weirdness' of their own language?",
+        "answer": "A tendency toward monolingualism that prevents them from seeing what is 'normal' in other languages."
+      },
+      {
+        "question": "In terms of linguistic change, how does modern English relate to its Old English ancestor compared to other languages?",
+        "answer": "English has changed much more drastically than its relatives or most other languages."
+      }
+    ],
+    "createdAt": 1782942833190,
+    "updatedAt": 1783086607868
   }
 ]
